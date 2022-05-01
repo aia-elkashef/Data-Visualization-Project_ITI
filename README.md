@@ -19,7 +19,11 @@ E-Commerce Shipping Data Dashboard
 - Q1: What was Customer Rating? And was the product delivered on time?
 - Q2: Is Customer query is being answered?
 - Q3: If Product importance is high. having higest rating or being delivered on time?
-- Q4: what is the relation between prior purchases and discount offered
+- Q4: what is the relation between prior purchases and discount offered?
 - Q5: Does Mode of Shipment effect Cost of Product ?
 - Q6: Does Warehouse Effect on Cost of Product ?
 - Q7: Does Customer calls effect Ratings ?
+
+### tools
+- plotly express with python 
+- bootstrap components 
